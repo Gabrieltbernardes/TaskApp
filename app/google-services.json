@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986190617842",
+    "project_id": "projetotur-d7af1",
+    "storage_bucket": "projetotur-d7af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986190617842:android:1d68f2f78de47e551bc46b",
+        "android_client_info": {
+          "package_name": "com.example.crudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTAiTMiP0TzAuIWD6I7EQj0SPJig2Dfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986190617842:android:4905ae39eef796ac1bc46b",
+        "android_client_info": {
+          "package_name": "com.example.projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTAiTMiP0TzAuIWD6I7EQj0SPJig2Dfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
